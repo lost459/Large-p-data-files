@@ -3,4 +3,4 @@ This repository holds the relevant data generated for the manuscript titled "Ana
 
 Folder "HPC Code" includes general code used on the Griffith University High Performance Computing Cluster “Gowonda”, to generate much of the numerical data within the manuscript.
 
-Other folders (Fig 1, ..., Fig 5) include the specific data and python code used to generate the respective plots in the manuscript.
+Other folders (Fig 1, ..., Fig 6) include the specific data and python code used to generate the respective plots in the manuscript.
